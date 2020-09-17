@@ -1,0 +1,8 @@
+body{text-align: left;margin-left: 30%;margin-right: 30%;margin-top: 2%;margin-bottom: 5%;font-family:"garamond";color:black; background-color: rgb(230, 223, 223);}
+head{text-align: left;margin-left: 30%;margin-right: 30%;margin-top: 5%;margin-bottom: 5%;font-family:"garamond";color:black;background-color: rgb(230, 223, 223);}
+h1{text-align: center;;font-family:"garamond";color: green;font-size : "24";text-decoration: ;}
+h2,h3,h4{text-align: left;;font-family:"garamond";color: green;font-size : "18";text-decoration: underline ;}
+em{color: rgb(10, 10, 218);font-weight: bold ;}
+ul{font-style: italic;}
+img{text-align: left;margin-right: 30%;margin-left: 30%;}
+blockquote{text-align: right;}
